@@ -15,17 +15,20 @@ The 1st homework assignment\
     - Serve profile page at '/profile' and redirect default route to it.
 
 # FOLDER CONTENT
-HW1_WAD2025/\
-│\
-├── app.py\
-├── static/\
-│   ├── styles.css\
-│   ├── profile.jpg\
-│   ├── script.js\
-│   └── Gta Vice City Theme.mp3\
-└── templates/\
-    └── profile.html
-
+```bash
+HW1_WAD2025/
+|-- README.md
+|-- app.py
+|-- static
+|   |-- Gta Vice City Theme.mp3
+|   |-- github_icon.png
+|   |-- profile.jpg
+|   |-- script.js
+|   |-- style.css
+|   `-- telegram_icon.png
+`-- templates
+    `-- profile.html
+```
 # HOW TO RUN
 1. Install Flask if you haven't already:
    ```bash
