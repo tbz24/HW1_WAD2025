@@ -16,26 +16,17 @@ The 1st homework assignment\
 
 # FOLDER CONTENT
 ```bash
-HW1_WAD2025/
+HW1_WAD2025/profilePage
+.
 |-- README.md
-|-- app.py
-|-- static
-|   |-- Gta Vice City Theme.mp3
-|   |-- github_icon.png
-|   |-- profile.jpg
-|   |-- script.js
-|   |-- style.css
-|   `-- telegram_icon.png
-`-- templates
-    `-- profile.html
+|-- index.html
+`-- static
+    |-- Gta Vice City Theme.mp3
+    |-- github_icon.png
+    |-- profile.jpg
+    |-- script.js
+    |-- style.css
+    `-- telegram_icon.png
 ```
-# HOW TO RUN
-1. Install Flask if you haven't already:
-   ```bash
-   pip install flask
-   ```
-2. Run the Flask application:
-   ```bash
-   python app.py
-   ```
-4. Open brower and go to **http://127.0.0.1:5000/**
+# ACCESS PROFILE PAGE
+**https://tbz24.github.io/HW1_WAD2025/**
