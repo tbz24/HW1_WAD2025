@@ -16,7 +16,7 @@ The 1st homework assignment\
 
 # FOLDER CONTENT
 ```bash
-HW1_WAD2025/
+HW1_WAD2025/main
 |-- README.md
 |-- app.py
 |-- static
