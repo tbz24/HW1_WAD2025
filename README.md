@@ -14,7 +14,7 @@ The 1st homework assignment\
     - Serve profile page using render_template (might be with parameters on your choice).
     - Serve profile page at '/profile' and redirect default route to it.
 
-# FOLDER CONTENT
+## FOLDER CONTENT
 ```bash
 HW1_WAD2025/main
 |-- README.md
@@ -29,7 +29,7 @@ HW1_WAD2025/main
 `-- templates
     `-- profile.html
 ```
-# HOW TO RUN
+## HOW TO RUN
 1. Install Flask if you haven't already:
    ```bash
    pip install flask
