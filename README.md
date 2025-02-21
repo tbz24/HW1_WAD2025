@@ -39,3 +39,4 @@ HW1_WAD2025/main
    python app.py
    ```
 4. Open brower and go to **http://127.0.0.1:5000/**
+5. Link to my Profile page: **https://tbz24.github.io/HW1_WAD2025/**
